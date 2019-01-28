@@ -1,0 +1,1 @@
+This is Spences first git project
